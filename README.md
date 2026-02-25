@@ -29,4 +29,5 @@ And who knows what I'll build next :smile:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![PXL_20260221_123334472 PORTRAIT](https://github.com/user-attachments/assets/61544297-4668-4092-84a4-75dc3ed8fd0a)
+# 🐈 Programming Co-pilot
+![PXL_20260221_123334472 PORTRAIT](https://github.com/user-attachments/assets/5dc0d262-0520-44c9-8612-f98a4c3c37c1)
