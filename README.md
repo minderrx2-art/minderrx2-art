@@ -28,3 +28,5 @@ And who knows what I'll build next :smile:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![PXL_20260221_123334472 PORTRAIT](https://github.com/user-attachments/assets/61544297-4668-4092-84a4-75dc3ed8fd0a)
