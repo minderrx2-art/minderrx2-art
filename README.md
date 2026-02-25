@@ -1,5 +1,3 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=minderrx2-art&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💫 About Me:
 I'm currently working on [GOPRL](https://github.com/minderrx2-art/goprl) A Fast and scalable URL Shortener API made with Go. <br>
 I previously worked on [Rs-scraper](https://github.com/minderrx2-art/rs-scraper) A web scraper for old school runescape development diaries. <br>
