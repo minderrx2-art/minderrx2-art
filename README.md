@@ -30,4 +30,4 @@ And who knows what I'll build next :smile:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 🐈 Programming Co-pilot
-![PXL_20260221_123334472 PORTRAIT](https://github.com/user-attachments/assets/5dc0d262-0520-44c9-8612-f98a4c3c37c1)
+![PXL_20260221_123334472 PORTRAIT(1)](https://github.com/user-attachments/assets/4d5f827e-42d7-49f8-aa53-ba492869c29f)
